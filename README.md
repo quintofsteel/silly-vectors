@@ -1,2 +1,2 @@
 # silly-vectors
-# implementing a few vector operations 
+# implementing the basic vector operations 
